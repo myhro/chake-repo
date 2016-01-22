@@ -1,4 +1,5 @@
 package 'ack-grep'
+package 'curl'
 package 'encfs'
 package 'git'
 package 'git-sh'
