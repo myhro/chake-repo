@@ -1,0 +1,8 @@
+package 'chromium'
+package 'iceweasel'
+package 'kupfer'
+package 'parcellite'
+package 'pm-utils'
+package 'ttf-mscorefonts-installer'
+package 'vim-gtk'
+package 'xclip'
