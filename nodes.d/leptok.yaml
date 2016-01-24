@@ -1,5 +1,6 @@
 local://leptok:
   run_list:
     - recipe[desktop]
+    - recipe[programming]
     - recipe[system]
     - recipe[terminal]
