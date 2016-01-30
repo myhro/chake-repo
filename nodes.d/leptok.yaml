@@ -1,5 +1,6 @@
 local://leptok:
   run_list:
+    - recipe[debian]
     - recipe[desktop]
     - recipe[programming]
     - recipe[system]
