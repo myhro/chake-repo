@@ -1,0 +1,7 @@
+myhro@viridian.ilieve.org:
+  run_list:
+    - recipe[desktop::server]
+    - recipe[desktop]
+    - recipe[programming::debian]
+    - recipe[system]
+    - recipe[terminal]
