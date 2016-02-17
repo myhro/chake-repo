@@ -4,4 +4,5 @@ myhro@viridian.ilieve.org:
     - recipe[desktop]
     - recipe[programming::debian]
     - recipe[system]
+    - recipe[terminal::vagrant]
     - recipe[terminal]
