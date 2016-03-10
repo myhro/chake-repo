@@ -3,6 +3,7 @@ myhro@viridian.ilieve.org:
     - recipe[desktop::server]
     - recipe[desktop]
     - recipe[programming::debian]
+    - recipe[programming::python]
     - recipe[system]
     - recipe[terminal::vagrant]
     - recipe[terminal]
