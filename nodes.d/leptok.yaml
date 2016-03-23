@@ -6,3 +6,4 @@ local://leptok:
     - recipe[programming::ruby]
     - recipe[system]
     - recipe[terminal]
+    - recipe[terminal::video]
