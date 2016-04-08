@@ -1,4 +1,5 @@
 package 'etckeeper'
+package 'ntfs-3g'
 package 'ntp'
 package 'pm-utils'
 package 'ufw'
