@@ -1,0 +1,9 @@
+local://desktok:
+  run_list:
+    - recipe[desktop]
+    - recipe[programming::debian]
+    - recipe[programming::python]
+    - recipe[programming::ruby]
+    - recipe[system]
+    - recipe[terminal]
+    - recipe[terminal::video]
