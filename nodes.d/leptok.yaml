@@ -4,6 +4,7 @@ local://leptok:
     - recipe[programming::debian]
     - recipe[programming::python]
     - recipe[programming::ruby]
+    - recipe[system::docker]
     - recipe[system]
     - recipe[terminal::video]
     - recipe[terminal]
