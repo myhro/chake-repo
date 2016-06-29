@@ -4,6 +4,7 @@ myhro@viridian.ilieve.org:
     - recipe[desktop]
     - recipe[programming::debian]
     - recipe[programming::python]
+    - recipe[programming::ruby]
     - recipe[system::docker]
     - recipe[system::kvm]
     - recipe[system::virtualbox]
