@@ -1,5 +1,6 @@
 package 'etckeeper'
 package 'ntfs-3g'
 package 'ntp'
+package 'openvpn'
 package 'pm-utils'
 package 'ufw'
