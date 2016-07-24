@@ -1,4 +1,5 @@
 package 'git-dpm'
 package 'packaging-dev'
+package 'reportbug'
 package 'reprepro'
 package 'signing-party'
