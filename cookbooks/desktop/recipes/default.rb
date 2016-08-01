@@ -1,6 +1,5 @@
 package 'chromium'
 package 'gparted'
-package 'iceweasel'
 package 'kupfer'
 package 'light-locker'
 package 'parcellite'
