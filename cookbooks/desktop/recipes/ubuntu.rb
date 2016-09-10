@@ -1,0 +1,5 @@
+package 'gparted'
+package 'remmina'
+package 'ttf-mscorefonts-installer'
+package 'vim-gtk'
+package 'xclip'
