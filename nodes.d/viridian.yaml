@@ -1,12 +1,9 @@
 myhro@viridian.ilieve.org:
   run_list:
-    - recipe[desktop::debian]
-    - recipe[desktop::server]
     - recipe[programming::debian]
     - recipe[programming::python]
     - recipe[programming::ruby]
     - recipe[system::docker]
-    - recipe[system::kvm]
     - recipe[system::virtualbox]
     - recipe[system]
     - recipe[terminal::vagrant]
