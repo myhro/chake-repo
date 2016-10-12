@@ -3,5 +3,6 @@ local://desktok:
     - recipe[desktop::ubuntu]
     - recipe[programming::python]
     - recipe[programming::ruby]
+    - recipe[system::docker]
     - recipe[system]
     - recipe[terminal]
